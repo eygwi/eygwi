@@ -1,11 +1,7 @@
-<h1 align="center">Hi there, I'm a Passionate Developer! 🚀</h1>
+<h1 align="center">Hi there, I'm a Passionate Developer! 😺</h1>
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQzZ3BpOGIxcm5kNTQ4MDg4c2JyZ3VjZTMyZDcwenN5cTA1MDJxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="480" height="auto"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-West%20Sumatra,%20Indonesia-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Indonesia Badge"/>
 </div>
 
 ---
