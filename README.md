@@ -1,7 +1,7 @@
 <h1 align="center">Hello guys, I am a new developer 👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd0dHU3MGxia2YweGFwcG1tYWhmZ3p5ajEyNzJjZW1yczV5ZDN2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="480" height="auto"/>
 </div>
 
 ---
